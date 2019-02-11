@@ -48,4 +48,4 @@ We can add DDD and Eventsourcing in CommandHandler. We can call to Aggregate Rep
     https://github.com/badpaybad/cqrs-dot-net-core
 	
 # MQTT with Mqttnet + Kafka or Redis
-
+	https://github.com/chkr1011/MQTTnet
